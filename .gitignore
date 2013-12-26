@@ -7,3 +7,6 @@
 *.cmx
 *.cmxs
 *.cmxa
+*.ml~
+*.native
+_*
